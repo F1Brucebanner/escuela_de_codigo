@@ -15,7 +15,7 @@
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
 # Inicio.
-# Declarar (año actual, año de nacimianto, edad actual): números reales.
+# Declarar (año actual, año de nacimiento, edad actual): números reales.
 # Ingresar valores de años (año actual, año de nacimiento).
 # edad actual= (año actual - año de nacimiento).
 # Mostrar (edad actual). 
