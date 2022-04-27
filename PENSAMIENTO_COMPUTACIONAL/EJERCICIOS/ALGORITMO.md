@@ -23,4 +23,14 @@
 
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
+Aclaro que todavia no vemos condicionantes, por eso no viene asi mi estructura
 #Inicio
+# Declarar (precio inicial, precio nuevo, mayor, porcentaje de inicio, definir incremento): 
+# Ingresar valores comparativos (precio nuevo, precio inicial) 
+# mayor= (precio nuevo > precio inicial).
+# Mostrar= mayor
+# porcentaje de inicio=  (precio inicial * 100) / precio nuevo 
+# Mostrar= porcentaje de inicio 
+# definir incremento= (100 - porcentaje de inicio)
+# Mostrar= definir incremento
+# Fin
