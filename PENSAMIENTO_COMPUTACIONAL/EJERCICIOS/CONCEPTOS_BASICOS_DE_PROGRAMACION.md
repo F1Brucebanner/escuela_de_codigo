@@ -5,4 +5,4 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 
 ## LENGUAJE 2 Visual Basic es un lenguaje de programación orientado a objetos desarrollado por Microsoft. El uso de Visual Basic agiliza y simplifica la creación de aplicaciones . NET con seguridad de tipos.
 
-## LENGUAJE 3 
+## LENGUAJE 3 Lenguaje ensamblador interactua directamente con el procesador y la tarjeta madre.
