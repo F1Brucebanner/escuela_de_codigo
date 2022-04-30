@@ -1,10 +1,10 @@
 ## RETO 
 Vamos a identificar los siguientes tipos de datos
 
-NUMEROS ENTEROS : 7, 21, 0, etc
+NUMEROS ENTEROS : INT 7, 21, 0, etc
 
-NUMEROS DECIMALES: 9.5, 2.2, 3.7
+NUMEROS DECIMALES: FLOAT 9.5, 2.2, 3.7
 
-CARACTER : "S"
+CARACTER : CHAR "S"
 
-CADENA DE CARACTERES : "Morgan"
+CADENA DE CARACTERES : String "Morgan"
