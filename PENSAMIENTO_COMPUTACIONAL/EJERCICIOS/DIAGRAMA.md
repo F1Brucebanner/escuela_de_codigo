@@ -40,7 +40,26 @@
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
+    
+#Inicio
+
+#declarar (base, altura, resultado)float
+
+#mostrar ("ingresa la medida de base")
+
+#asignar (base)
+
+#mostrar ("ingresa la medida de altura")
+
+#asignar (altura)
+
+#resultado=(base*altura)/2
+
+#mostrar ("el resultado del area del triangulo es ", resultado)
+
+#fin  
  
+![image](https://user-images.githubusercontent.com/104279720/167272437-1c8eb701-c5ee-4558-b29e-78f30c6daff8.png)
 
 
 
