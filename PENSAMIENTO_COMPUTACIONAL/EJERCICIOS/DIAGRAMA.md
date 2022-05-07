@@ -17,7 +17,22 @@
 
 ![image](https://user-images.githubusercontent.com/104279720/167272007-999054b0-edec-48ad-81f9-397314ead466.png)
 
-    
+#    Algoritmo Nueve
+
+#	num<-0
+
+#   resultado<-0
+	
+#    Escribir "ingresa el número"
+
+#    Leer num
+
+#	resultado<-num*9
+
+#	Escribir "el resultado de multiplicar el número por 9 es ", resultado 
+
+# FinAlgoritmo
+
 
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
     
