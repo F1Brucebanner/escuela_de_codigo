@@ -1,7 +1,49 @@
 # RETOS
 ## REALIZAR LOS SIGUIENTES RETOS CON SU ALGORITMO Y DIAGRAMA DE FLUJO CORRESPONDIENTE CADA UNO 
 
-* Programa que pida un número y diga si es positivo o negativo
+# Programa que pida un número y diga si es positivo o negativo
+* 
+# inicio
+
+# declarar (número,num_negativo)int
+
+# Si número = (-num_negativo) Entonces 
+
+                 mostrar (Es número negativo)
+# Sino  
+
+          mostrar (eres número positivo)
+
+#Finsi
+
+![image](https://user-images.githubusercontent.com/104279720/167274893-6478abff-f968-4ca0-806b-4b0fd79fd3c7.png)
+
+
+PSEINT
+
+#Algoritmo Positivo_Negativo
+
+#num<-0
+
+#num_negativo<-num
+
+#Escribir "ingresa el número"
+
+#Leer num
+
+#Si num<-(-num_negativo) Entonces
+
+              Mostrar "negativo"
+
+#SiNo
+
+             Mostrar "positivo"
+
+#Fin Si
+
+#FinAlgoritmo
+
+   
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
