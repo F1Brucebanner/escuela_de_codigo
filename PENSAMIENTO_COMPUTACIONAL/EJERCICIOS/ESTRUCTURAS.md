@@ -46,6 +46,60 @@ PSEINT
 
    
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+
+* 
+# inicio
+
+# declarar X como caracter
+
+# Ingresar X
+
+# Condicional de validación si es S o s 
+
+# Verdadero igual a "Es letra S"
+
+# Falso 
+
+# Condicional de validación si es N o n 
+ 
+ # Verdadero igual a "Es letra N"
+ 
+ # Falso igual a "Es otro caracter"
+ 
+#Fin
+
+
+![image](https://user-images.githubusercontent.com/104279720/167987428-80d0ee7c-3edf-4052-85fe-07590c8fb967.png)
+
+
+#Algoritmo S_o_N
+
+#Definir X Como Caracter
+
+#Escribir  "Escriba S o N"
+
+#leer X
+
+#Si X='S' o X='s' Entonces
+
+#Escribir "Es letra S"
+
+#SiNo
+
+#Si X='N' o X='n' Entonces
+
+#Escribir "Es letra N"
+
+#SiNo
+
+#Escribir "Es otro caracter"
+
+#Fin Si
+	Fin Si
+		
+		
+FinAlgoritmo
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
